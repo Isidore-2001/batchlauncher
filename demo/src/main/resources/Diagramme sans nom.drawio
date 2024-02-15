@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T22:50:31.025Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="fFqeBfqmUqCb-Od3xp98" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T22:52:57.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="M460vZh1uYtD12_j5lhf" version="23.1.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="4876" dy="5721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -443,7 +443,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GG3HkDfQjYQ2vMHkq4_F-162" value="AcheteurId int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="GG3HkDfQjYQ2vMHkq4_F-160" vertex="1">
+        <mxCell id="GG3HkDfQjYQ2vMHkq4_F-162" value="AcheteurId int" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="GG3HkDfQjYQ2vMHkq4_F-160" vertex="1">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -456,7 +456,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GG3HkDfQjYQ2vMHkq4_F-165" value="AnnonceurId int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="GG3HkDfQjYQ2vMHkq4_F-163" vertex="1">
+        <mxCell id="GG3HkDfQjYQ2vMHkq4_F-165" value="AnnonceurId int " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="GG3HkDfQjYQ2vMHkq4_F-163" vertex="1">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -469,7 +469,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObiqnlmCI4mDSgJe3qRZ-30" value="ColisTrajetId int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="ObiqnlmCI4mDSgJe3qRZ-28">
+        <mxCell id="ObiqnlmCI4mDSgJe3qRZ-30" value="ColisTrajetId int" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="ObiqnlmCI4mDSgJe3qRZ-28">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -683,7 +683,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GG3HkDfQjYQ2vMHkq4_F-202" value="StatutSuivi" style="shape=table;startSize=25;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;swimlaneFillColor=none;fillColor=#5D7F99;swimlaneLine=1;rounded=1;shadow=0;columnLines=1;arcSize=17;noLabel=0;top=1;horizontal=1;absoluteArcSize=0;enumerate=1;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="570" y="355" width="260" height="115" as="geometry">
+          <mxGeometry x="850" y="300" width="260" height="115" as="geometry">
             <mxRectangle x="430" y="140" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
